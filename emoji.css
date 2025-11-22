@@ -9,8 +9,9 @@ img[src="/assets/a6b1ba6fa378a731.svg"] {
 }
 button[data-name="sob"] {
     background-image: url("https://cdn.discordapp.com/emojis/1438128337523441754.png");
-    background-size: 95%;
+    background-size: 87%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -23,8 +24,9 @@ img[src="/assets/607676c4d5d72659.svg"] {
 }
 button[data-name="pray"] {
     background-image: url("https://cdn.discordapp.com/emojis/1435630925194199102.webp?size=128");
-    background-size: 95%;
+    background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -39,6 +41,7 @@ button[data-name="pregnant_man"] {
     background-image: url("https://cdn.discordapp.com/emojis/1394018339734687887.webp?size=128");
     background-size: 85%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -47,12 +50,13 @@ button[data-name="pregnant_man"] {
 
 /*wilted_rose*/
 img[src="/assets/72c408f051b42abe.svg"] {
-        content: url("https://cdn.discordapp.com/emojis/1421831219410108436.webp?size=48&name=wilted_skull");
+        content: url("https://cdn.discordapp.com/emojis/1421608418161983529.webp?size=96");
 }
 button[data-name="wilted_rose"] {
-    background-image: url("https://cdn.discordapp.com/emojis/1421831219410108436.webp?size=48&name=wilted_skull");
+    background-image: url("https://cdn.discordapp.com/emojis/1421608418161983529.webp?size=96");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -65,8 +69,9 @@ img[src="/assets/ba9a27032dae1395.svg"] {
 }
 button[data-name="drooling_face"] {
     background-image: url("https://cdn.discordapp.com/emojis/1421433588825722921.webp?size=48&name=iamweird");
-    background-size: 95%;
+    background-size: 88%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -79,8 +84,9 @@ img[src="/assets/99a9410f2d527943.svg"] {
 }
 button[data-name="man_in_motorized_wheelchair_facing_right"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441788944152006709.webp?size=96");
-    background-size: 95%;
+    background-size: 83%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -93,8 +99,9 @@ img[src="/assets/78f24f398f77cb09.svg"] {
 }
 button[data-name="people_hugging"] {
     background-image: url("https://cdn.discordapp.com/emojis/1439479363505623101.webp?size=128");
-    background-size: 95%;
+    background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -107,8 +114,9 @@ img[src="/assets/8ad827d7dad91d44.svg"] {
 }
 button[data-name="pensive"] {
     background-image: url("https://cdn.discordapp.com/emojis/1363817028208820316.webp?size=96");
-    background-size: 90%;
+    background-size: 84%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -117,12 +125,13 @@ button[data-name="pensive"] {
 
 /*smiling_face_with_3_hearts*/
 img[src="/assets/10b67e5181089c99.svg"] {
-    content: url("https://cdn.discordapp.com/emojis/1193618810897444914.webp?size=48");
+    content: url("https://cdn.discordapp.com/emojis/1193618810897444914.webp?size=96");
 }
 button[data-name="smiling_face_with_3_hearts"] {
-    background-image: url("https://cdn.discordapp.com/emojis/1193618810897444914.webp?size=48");
-    background-size: 90%;
+    background-image: url("https://cdn.discordapp.com/emojis/1193618810897444914.webp?size=96");
+    background-size: 80%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -137,6 +146,7 @@ button[data-name="cry"] {
     background-image: url("https://cdn.discordapp.com/emojis/1397599286606299186.webp?size=96");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -152,6 +162,7 @@ button[data-id="1116228064020549633"] {
     background-image: url("https://cdn.discordapp.com/emojis/1350183346763862086.webp?size=48&name=nigga_cool");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -170,6 +181,7 @@ button[data-id="1151655994418536448"] {
     background-image: url("https://cdn.discordapp.com/emojis/1350183329168752725.webp?size=96");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -187,6 +199,7 @@ button[data-id="885724077128564826"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441807929689772062.webp?size=48&name=nigga_hollow~1");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -206,6 +219,7 @@ button[data-id="1151658661995876484"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441820477231464598.webp?size=96");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
@@ -223,6 +237,7 @@ button[data-id="1151658687396581397"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441820516410196179.webp?size=96");
     background-size: 90%;
     background-repeat: no-repeat;
+    background-position: center;
     div {
         display: none;
     }
