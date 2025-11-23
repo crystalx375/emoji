@@ -151,7 +151,7 @@ button[data-name="cry"] {
         display: none;
     }
 }
-
+/*heiton*/
 /*stuck_out_tongue*/
 img[src="/assets/426e7fc34498f6f9.svg"] {
     content: url("https://media.discordapp.net/stickers/1274427443632935026.png");
@@ -229,6 +229,36 @@ img[src="/assets/189c69cce633948f.svg"] {
 button[data-name="thong_sandal"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441935397503635529.webp");
     background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+/*new add*/
+/*rofl*/
+img[src="/assets/e5bddb2a9171637d.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442058643724828844.webp");
+}
+button[data-name="rofl"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442058643724828844.webp");
+    background-size: 89%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+
+/*pig*/
+img[src="/assets/f9f1fd47635927c5.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442058683986088101.webp");
+}
+button[data-name="pig"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442058683986088101.webp");
+    background-size: 87%;
     background-repeat: no-repeat;
     background-position: center;
     div {
@@ -329,3 +359,4 @@ button[data-id="1151658687396581397"] {
 img[aria-label=":bean_beg: from Rugbug Redfern Games"] {
     display: none;
 }
+
