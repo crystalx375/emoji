@@ -35,11 +35,11 @@ button[data-name="pray"] {
 
 /*pregnant_man*/
 img[src="/assets/7c3fda67f4f0a6a7.svg"] {
-        content: url("https://cdn.discordapp.com/emojis/1394018339734687887.webp?size=128");
+        content: url("https://cdn.discordapp.com/emojis/1394018339734687887.webp");
 }
 button[data-name="pregnant_man"] {
-    background-image: url("https://cdn.discordapp.com/emojis/1394018339734687887.webp?size=128");
-    background-size: 85%;
+    background-image: url("https://cdn.discordapp.com/emojis/1394018339734687887.webp");
+    background-size: 82%;
     background-repeat: no-repeat;
     background-position: center;
     div {
@@ -54,7 +54,7 @@ img[src="/assets/72c408f051b42abe.svg"] {
 }
 button[data-name="wilted_rose"] {
     background-image: url("https://cdn.discordapp.com/emojis/1421608418161983529.webp?size=96");
-    background-size: 90%;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     div {
@@ -84,7 +84,7 @@ img[src="/assets/99a9410f2d527943.svg"] {
 }
 button[data-name="man_in_motorized_wheelchair_facing_right"] {
     background-image: url("https://cdn.discordapp.com/emojis/1441788944152006709.webp?size=96");
-    background-size: 83%;
+    background-size: 82%;
     background-repeat: no-repeat;
     background-position: center;
     div {
@@ -144,6 +144,62 @@ img[src="/assets/70b84e11c04222b5.svg"] {
 }
 button[data-name="cry"] {
     background-image: url("https://cdn.discordapp.com/emojis/1397599286606299186.webp?size=96");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+/*stuck_out_tongue*/
+img[src="/assets/426e7fc34498f6f9.svg"] {
+    content: url("https://media.discordapp.net/stickers/1274427443632935026.png");
+}
+button[data-name="stuck_out_tongue"] {
+    background-image: url("https://media.discordapp.net/stickers/1274427443632935026.png");
+    background-size: 95%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+/*bomb*/
+img[src="/assets/30b6b17d3bd321b3.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1424025683499286590.webp");
+}
+button[data-name="bomb"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1424025683499286590.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+/*heart*/
+img[src="/assets/8838f014a5d2ce59.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1350892152913133679.webp");
+}
+button[data-name="heart"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1350892152913133679.webp");
+    background-size: 85%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+/*exploding_head*/
+img[src="/assets/1f55627ee38e8bb6.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1374434208268812338.webp");
+}
+button[data-name="exploding_head"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1374434208268812338.webp");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
