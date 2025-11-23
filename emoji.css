@@ -286,6 +286,66 @@ button[data-name="boar"] {
     }
 }
 
+
+/*cloud_lightning*/
+img[src="/assets/1f88ccbaa71d54fd.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442249778560897204.webp");
+}
+button[data-name="cloud_lightning"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442249778560897204.webp?");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+
+/*camel*/
+img[src="/assets/bb4191fb5a5a8553.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442249799008129116.webp");
+}
+button[data-name="camel"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1419087276050485360.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+
+/*horse*/
+img[src="/assets/343264e1134a2e1e.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442249755907325993.webp");
+}
+button[data-name="horse"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442249755907325993.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
+
+/*candle*/
+img[src="/assets/191233bd63f59a90.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442249732733796493.webp");
+}
+button[data-name="candle"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442249732733796493.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+
 /* ------------------------------------------------------------------------------------------------------------------------------------------ */
 
 /* cool(use id) */
@@ -379,6 +439,12 @@ button[data-id="1151658687396581397"] {
 img[aria-label=":bean_beg: from Rugbug Redfern Games"] {
     display: none;
 }
+
+/*                                            Фикс говна сюда                                                      */
+/*                                          чтобы удобнее было                                                     */
+/*<--<--------------------------------------------------------------------------------------------------------->-->*/
+
+/*--------------------------------------------------END-----------------------------------------------------------*/
 
 
 
