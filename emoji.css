@@ -423,6 +423,23 @@ button[data-name="candle"] {
 }
 
 
+/*moyai*/
+img[src="/assets/845fa5845c2e5e7d.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1442508136719061103.webp?size=96&animated=true");
+}
+button[data-name="moyai"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442508136719061103.webp?size=96&animated=true");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+.emoji__040f0[data-name="🗿"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1442508136719061103.webp?size=96&animated=true") !important
+}
+
 /* ------------------------------------------------------------------------------------------------------------------------------------------ */
 
 /* cool(use id) */
@@ -554,5 +571,4 @@ img[src="https://cdn.discordapp.com/emojis/1151658687396581397.webp?size=48"] {
 /*<--<--------------------------------------------------------------------------------------------------------->-->*/
 
 /*--------------------------------------------------END-----------------------------------------------------------*/
-
 
