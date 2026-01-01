@@ -440,6 +440,24 @@ button[data-name="moyai"] {
     background-image: url("https://cdn.discordapp.com/emojis/1442508136719061103.webp?size=96&animated=true") !important
 }
 
+
+/*fishing_pole_and_fish*/
+img[src="/assets/fbafd20902c930c4.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp");
+}
+button[data-name="fishing_pole_and_fish"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+.emoji__040f0[data-name="🎣"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp") !important
+}
+
 /* ------------------------------------------------------------------------------------------------------------------------------------------ */
 
 /* cool(use id) */
@@ -571,4 +589,5 @@ img[src="https://cdn.discordapp.com/emojis/1151658687396581397.webp?size=48"] {
 /*<--<--------------------------------------------------------------------------------------------------------->-->*/
 
 /*--------------------------------------------------END-----------------------------------------------------------*/
+
 
