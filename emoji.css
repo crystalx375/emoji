@@ -458,6 +458,24 @@ button[data-name="fishing_pole_and_fish"] {
     background-image: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp") !important
 }
 
+/*cold_face*/
+img[src="/assets/726dc886a14ea197.svg"] {
+    content: url("https://media.discordapp.net/attachments/1178326755853996106/1468924148712472759/image.png?ex=6985c9b8&is=69847838&hm=4cf3a9bdfb93009ef703eae392ca47a38bee295d6a33a3343c91569147e9f824&=&format=webp&quality=lossless");
+}
+button[data-name="cold_face"] {
+    background-image: url("https://media.discordapp.net/attachments/1178326755853996106/1468924148712472759/image.png?ex=6985c9b8&is=69847838&hm=4cf3a9bdfb93009ef703eae392ca47a38bee295d6a33a3343c91569147e9f824&=&format=webp&quality=lossless");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+.emoji__040f0[data-name="🥶"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp") !important
+}
+
+
 /* ------------------------------------------------------------------------------------------------------------------------------------------ */
 
 /* cool(use id) */
@@ -589,5 +607,6 @@ img[src="https://cdn.discordapp.com/emojis/1151658687396581397.webp?size=48"] {
 /*<--<--------------------------------------------------------------------------------------------------------->-->*/
 
 /*--------------------------------------------------END-----------------------------------------------------------*/
+
 
 
