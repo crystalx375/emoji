@@ -458,6 +458,7 @@ button[data-name="fishing_pole_and_fish"] {
     background-image: url("https://cdn.discordapp.com/emojis/1456404760327360623.webp") !important
 }
 
+
 /*cold_face*/
 img[src="/assets/726dc886a14ea197.svg"] {
     content: url("https://cdn.discordapp.com/emojis/1469403724027007209.webp");
@@ -473,6 +474,42 @@ button[data-name="cold_face"] {
 }
 .emoji__040f0[data-name="🥶"] {
     background-image: url("https://cdn.discordapp.com/emojis/1469403724027007209.webp") !important
+}
+
+
+/*thumbsdown*/
+img[src="/assets/6da033429f1798cc.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1469437889711440257.webp");
+}
+button[data-name="thumbsdown"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1469437889711440257.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+.emoji__040f0[data-name="👎"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1469437889711440257.webp") !important
+}
+
+
+/*:thumbsup:*/
+img[src="/assets/a4faf6864a96a042.svg"] {
+    content: url("https://cdn.discordapp.com/emojis/1469437858501623921.webp");
+}
+button[data-name="thumbsup"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1469437858501623921.webp");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    div {
+        display: none;
+    }
+}
+.emoji__040f0[data-name="👍"] {
+    background-image: url("https://cdn.discordapp.com/emojis/1469437858501623921.webp") !important
 }
 
 
@@ -607,6 +644,7 @@ img[src="https://cdn.discordapp.com/emojis/1151658687396581397.webp?size=48"] {
 /*<--<--------------------------------------------------------------------------------------------------------->-->*/
 
 /*--------------------------------------------------END-----------------------------------------------------------*/
+
 
 
 
